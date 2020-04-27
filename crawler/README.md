@@ -24,5 +24,5 @@ yarn
 Rodando o projeto
 
 ```bash
-node index.js
+node src/index.js
 ```
